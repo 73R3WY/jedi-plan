@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Jedi Plan Agency</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="login">Login</string>
+    <string name="view_report">View Report</string>
+    <string name="view_payslip">View Payslip</string>
+    <string name="view_employees">View Employees</string>
+    <string name="view_payroll">View Payroll</string>
+    <string name="my_account">My Account</string>
+    <string name="management">Management</string>
+    <string name="menu">Menu</string>
+    <string name="profile">Profile</string>
+
+    <string name="drawer_open">drawer_open</string>
+    <string name="drawer_close">drawer_close</string>
+
+    <string name="report">Report</string>
+    <string name="payslip">Payslip</string>
+    <string name="payroll">Payroll</string>
+    <string name="employees">Employees</string>
+
+</resources>
