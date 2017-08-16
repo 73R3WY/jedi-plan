@@ -1,0 +1,100 @@
+{
+    "users": [{
+            "id": 1,
+            "last_name": "Mamacus",
+            "first_name": "Jefford Ray",
+            "username": "jrmamacus",
+            "password": "admin123"
+        },
+        {
+            "id": 2,
+            "last_name": "Gil",
+            "first_name": "Enrique",
+            "username": "egil",
+            "password": "egil123"
+        },
+        {
+            "id": 3,
+            "last_name": "Soberano",
+            "first_name": "Liza",
+            "username": "lsoberano",
+            "password": "lsoberano123"
+        },
+        {
+            "id": 4,
+            "last_name": "Reid",
+            "first_name": "James",
+            "username": "jreid",
+            "password": "jreid123"
+        },
+        {
+            "id": 5,
+            "last_name": "Lustre",
+            "first_name": "Nadine",
+            "username": "nlustre",
+            "password": "nlustre123"
+        }
+    ],
+    "profiles": [{
+            "user": 1,
+            "type": "Management",
+            "position": "Communication"
+        },
+        {
+            "user": 2,
+            "type": "Employee",
+            "position": "Rank-and-File"
+        },
+        {
+            "user": 3,
+            "type": "Employee",
+            "position": "Rank-and-File"
+        },
+        {
+            "user": 4,
+            "type": "Employee",
+            "position": "Operations"
+        },
+        {
+            "user": 5,
+            "type": "Employee",
+            "position": "Operations"
+        }
+    ],
+    "finances": [{
+            "user": 1,
+            "rate": 200,
+            "sss": 300,
+            "hdmf": 200,
+            "phic": 200
+        },
+        {
+            "user": 2,
+            "rate": 150,
+            "sss": 200,
+            "hdmf": 120,
+            "phic": 200
+        },
+        {
+            "user": 3,
+            "rate": 135,
+            "sss": 200,
+            "hdmf": 200,
+            "phic": 100
+        },
+        {
+            "user": 4,
+            "rate": 180,
+            "sss": 250,
+            "hdmf": 120,
+            "phic": 100
+        },
+        {
+            "user": 5,
+            "rate": 170,
+            "sss": 250,
+            "hdmf": 200,
+            "phic": 100
+        }
+    ]
+}
